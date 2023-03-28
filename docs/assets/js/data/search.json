@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title": "Why Cubeap",
+    "url": "/cubeapm/posts/home/",
+    "categories": "INTRODUCTION",
+    "tags": "introduction, why-cubeapm",
+    "date": "2023-03-27 00:00:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "CubeapmYour data in your boundaryNo need to worry about GDPR and other data protection laws. All your tracing and monitoring data is now in YOUR infra.Metrics, Traces and Logs in one appEasily corr...",
+    "content": "CubeapmYour data in your boundaryNo need to worry about GDPR and other data protection laws. All your tracing and monitoring data is now in YOUR infra.Metrics, Traces and Logs in one appEasily correlate from metrics, traces and logs with seamless click through from one to otherOpenTelemetry NativeTake advantage of rich OpenTelemetry ecosystem for instrumentation.Metrics, Traces, Logs and Exceptions monitoring in a single pane  Distributed Tracing  Logs Management  Metrics &amp; Dashboards  Infrastructure Monitoring  Exceptions  AlertsDistributed Tracing  End-to-end visibility of your services with rich contextual tags and attributes  Run advanced aggregates on trace data toget business relevant metrics  Powerful filters to drive insights faster  Flamegraphs and Gantt Charts to visualize flow of requests easilyLogs Management  Native Support for OpenTelemetry Logs  Advanced Log Query Builder to help you search &amp; filter logs easily  Automatic Log Collection from K8s cluster  Uses Columnar Database (ClickHouse) for lightening quick Log analytics [Logs Perf. Benchmark]Metrics Monitoring  Out-of-box charts for application metrics like p90, p99 latency, error rates, request rates, etc.  Custom &amp; Business Metrics  A powerful metrics query builder to create customized charts  OpenTelemetry Metrics SDK supportInfrastructure Monitoring  End-to-End visibility into infrastructure performance  Ingest metrics from all kinds of host environments  Correlate infrastructure and application metrics for contextual insights  Build customized dashboards with powerful query builderExceptions Monitoring  Record exceptions automatically in Python, Java, Ruby, and Javascript  Rich contextual data with stack trace, exceptions attributes and linked span data  Exceptions grouping and custom exceptions  Navigate from Exceptions to related traces to observe the exception in trace execution contextAlerts Management  Easy to set alerts with DIY query builder  Support for PromQL for users familiar with Prometheus alert manager  Support for multiple notification channels like Slack and PagerDutyWhy use OpenTelemetry?Say bye to proprietary vendor agents, say hello to open sourceNo vendor lock-in with OpenTelemetryStandardize Observability with one open source standardHigh Quality Telemetry with intelligent correlationWhy get locked-in with SaaS vendors like DataDog when you can use Open source?Cubeapm is based natively on OpenTelemetry, a vendor neutral open source standard for instrumentation. No fear of instrumenting with vendor SDK and getting locked in.Your data storage cost is only dependent on your application load, rather than factors like number of nodes, which is an architectural preference.No compliance needed to use Cubeapm. No need to go through multiple rounds with legal/security teams just for trying it out.Why Cubeapm?Native support for OpenTelemetry, emerging industry standard for instrumentationMonitor your usage &amp; set your own retention period and sampling rate based on your needsScalable &amp; modular architecture to handle enterprise scale. No scaling pains. Ever.Built on latest stack - Golang &amp; React-Typescript loved by developersCubeapm Office Hour &amp; Demo videosCheck our youtube channel for more tutorialsOpen source and Free to self-hostDocs  Introduction  ContributingCommunity  Slack  Twitter  Support  Learn  Community ArchiveMore  Technical Writer Program  About  Terms  PrivacyCopyright © 2023 Cubeapm, Inc."
+  }
+  
+]
+

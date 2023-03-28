@@ -1,0 +1,75 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/cubeapm/</id>
+  <title>Cubeapm</title>
+  <subtitle>An ultra fast, performant apm with no configuration overhead</subtitle>
+  <updated>2023-03-29T07:48:21+08:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>http://localhost:4000/cubeapm/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/cubeapm/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/cubeapm/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 your_full_name </rights>
+  <icon>/cubeapm//assets/img/favicons/favicon.ico</icon>
+  <logo>/cubeapm//assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Why Cubeap</title>
+    <link href="http://localhost:4000/cubeapm/posts/home/" rel="alternate" type="text/html" title="Why Cubeap" />
+    <published>2023-03-27T00:00:00+08:00</published>
+  
+    <updated>2023-03-27T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/cubeapm/posts/home/</id>
+    <content src="http://localhost:4000/cubeapm/posts/home/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="INTRODUCTION" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Cubeapm
+
+Your data in your boundary
+
+No need to worry about GDPR and other data protection laws. All your tracing and monitoring data is now in YOUR infra.
+
+
+
+Metrics, Traces and Logs in one app
+
+Easily correlate from metrics, traces and logs with seamless click through from one to other
+
+
+
+OpenTelemetry Native
+
+Take advantage of rich OpenTelemetry ecosystem for instrumentation.
+
+Metrics, Trace...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
